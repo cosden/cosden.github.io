@@ -1,0 +1,61 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site title
+title: "Ian A. Cosden"
+
+# A description of your site for social meta tag, search engines, and feed.xml
+description: "A place for musing on Research Software Engineers and some other stuff..."
+
+# The subpath of your site, e.g. /blog, for generating urls
+baseurl: 
+
+# The base hostname & protocol of your site for where absolute urls are needed
+url: "https://cosden.github.io/Scriptor-Jekyll-Theme"
+
+# Site navigation - each item must have a title and a url.
+navigation:
+- text: Home
+  url: /
+- text: About
+  url: /about/
+- text: Archives
+  url: /tags/
+
+# The shortname for your Disqus site to enable comments.
+disqus: cosdenblog
+
+# Author information - author info at the bottom of the post
+author_name: "Ian Cosden"
+author_bio: "Ian Cosden leads the <a href=https://researchcomputing.princeton.edu/software-engineering>Research Software Engineering Group</a> at Princeton University.  
+He has a Ph.D. in Mechanical Engineering from the University of Pennsylvania. 
+Find out more <a href=/about>here</a>."
+author_url:  "http://cosden.github.io"
+author_location: "Princeton, NJ"
+author_image: /assets/images/Ian-Cosden-headshot-small.jpeg
+
+# Social links in the site footer
+twitter_username: "IanCosden"
+facebook_username: "IanCosden"
+github_username: "cosden"
+#pinterest_username: "username"
+#instagram_username: "username"
+
+# http://jekyllrb.com/docs/pagination/
+paginate: 5
+paginate_path: '/page:num/'
+plugins: [jekyll-paginate]
+
+# Permalinks
+permalink: /:title
+
+markdown: kramdown
+
+# Sass
+sass:
+  sass_dir: _sass
+  style: compressed
