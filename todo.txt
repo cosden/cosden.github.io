@@ -1,7 +1,8 @@
 posts about
 RSE at Princeton
 WHo makes a good RSE?
+GPU Hackathon
+Bootcamp
 
-books:
-List off audiobooks
-Goggins
+Make separate repo for book reviews eventually.
+
