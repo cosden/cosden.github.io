@@ -10,7 +10,7 @@ Note to self: put a better picture here.
 ### Short Version
 
 I work at Princeton University as the Manager of *HPC Software
-Engineering and Performance Tunining* in the [Research Computing
+Engineering and Performance Tuning* in the [Research Computing
 Department](https://researchcomputing.princeton.edu).  Basically that
 means I lead the Research Software Engineering Group.
 
@@ -18,15 +18,16 @@ I'm heavily involved in the [US-RSE Assocation](https://us-rse.org)
 currently serving as one of the founding steering committee members.  
 
 I have a Ph.D. in Mechanical Engineering from University of
-Pennsylvania.  A M.S. from Syracuse Univerity, also in Mechcanical
+Pennsylvania.  A M.S. from Syracuse University, also in Mechanical
 Engineering and a Bachelor's in Mechanical Engineering from University
 of Delaware.  It took me a while, but eventually came to the
 conclusion that I like writing code more than I liked the science or
 engineering.
 
-I have 3 terrfic kids who keep life entertainging, fufulling, and
+I have [3 terrific daughters](/assets/images/Cruise-2019.jpg) who keep life
+entertaining, fulfilling, and
 exhausting. I like good food (and spending too much at Michelan
-starred resturants), audiobooks, and lifting weights.
+starred restaurants), audiobooks, and lifting weights.
 
 ### Long Version
 

@@ -12,7 +12,7 @@ Were people beating my door down for my opinion on everything?
 
 *No.*  
 
-Were people clamouring for a peak inside my life and mind?
+Were people clamoring for a peak inside my life and mind?
 
 *Not a chance.*
 
@@ -43,7 +43,7 @@ try to reach in and grab one.  Not to mention, now I have to carry the
 utensils the whole way through the buffet line or put them in my
 pocket?
 
-See what I mean? No one wants to hear my random rantanings and
+See what I mean? No one wants to hear my random rantings and
 ravings.  I could literally write a book on first-world problems and
 complaints.  Hey, maybe you want to hear this things...if you do let
 me know.  Poke me on [twitter](https://twitter.com/iancosden) and
