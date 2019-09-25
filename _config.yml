@@ -30,6 +30,7 @@ navigation:
 #disqus: cosdenblog
 
 # Google Analytics
+google_analytics: "UA-35235844-2"
 
 # Author information - author info at the bottom of the post
 author_name: "Ian Cosden"
