@@ -12,7 +12,7 @@ title: "Ian A. Cosden"
 description: "A place for musing on Research Software Engineers and some other stuff..."
 
 # The subpath of your site, e.g. /blog, for generating urls
-baseurl: 
+baseurl:
 
 # The base hostname & protocol of your site for where absolute urls are needed
 url: "https://cosden.github.io/Scriptor-Jekyll-Theme"
@@ -27,12 +27,12 @@ navigation:
   url: /tags/
 
 # The shortname for your Disqus site to enable comments.
-disqus: cosdenblog
+#disqus: cosdenblog
 
 # Author information - author info at the bottom of the post
 author_name: "Ian Cosden"
-author_bio: "Ian Cosden leads the <a href=https://researchcomputing.princeton.edu/software-engineering>Research Software Engineering Group</a> at Princeton University.  
-He has a Ph.D. in Mechanical Engineering from the University of Pennsylvania. 
+author_bio: "Ian Cosden leads the <a href=https://researchcomputing.princeton.edu/software-engineering>Research Software Engineering Group</a> at Princeton University.
+He has a Ph.D. in Mechanical Engineering from the University of Pennsylvania.
 Find out more <a href=/about>here</a>."
 author_url:  "http://cosden.github.io"
 author_location: "Princeton, NJ"
