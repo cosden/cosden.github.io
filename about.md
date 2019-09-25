@@ -26,7 +26,7 @@ engineering.
 
 I have [3 terrific daughters](/assets/images/Cruise-2019.jpg) who keep life
 entertaining, fulfilling, and
-exhausting. I like good food (and spending too much at Michelan
+exhausting. I like good food (and spending too much at Michelin
 starred restaurants), audiobooks, and lifting weights.
 
 ### Long Version
