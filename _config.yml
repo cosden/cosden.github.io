@@ -29,6 +29,9 @@ navigation:
 # The shortname for your Disqus site to enable comments.
 #disqus: cosdenblog
 
+# Google Analytics
+UA-35235844-2
+
 # Author information - author info at the bottom of the post
 author_name: "Ian Cosden"
 author_bio: "Ian Cosden leads the <a href=https://researchcomputing.princeton.edu/software-engineering>Research Software Engineering Group</a> at Princeton University.
