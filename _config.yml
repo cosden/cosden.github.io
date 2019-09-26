@@ -15,7 +15,7 @@ description: " Ian Cosden's Personal Blog on RSEs and Other Things "
 baseurl:
 
 # The base hostname & protocol of your site for where absolute urls are needed
-url: "https://cosden.github.io/Scriptor-Jekyll-Theme"
+url: "https://cosden.github.io"
 
 # Site navigation - each item must have a title and a url.
 navigation:
