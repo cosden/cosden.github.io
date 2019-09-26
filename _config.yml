@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site title
-title: "Ian A. Cosden"
+title: "Ian A. Cosden's Blog"
 
 # A description of your site for social meta tag, search engines, and feed.xml
-description: "A place for musing on Research Software Engineers and some other stuff..."
+description: " "
 
 # The subpath of your site, e.g. /blog, for generating urls
 baseurl:
