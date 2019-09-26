@@ -16,6 +16,8 @@ The first RSE definition is fairly narrow and relates to my day job as the Manag
 
 The second is a broader definition as it relates to the [US-RSE Association](https://us-rse.org).  I’ve been actively involved in the organization since the beginning and I think it’s no secret that I am eager to see a professional association to support current and future RSEs.  The goals of the organization are [here](https://us-rse.org/mission) and I’m 100% behind them.  Many people have asked, and will continue to ask, “am I an RSE?” or “do I belong in the US-RSE?”  In this context, the definition of what constitutes an RSE is essential as we strive to develop a unique group identity.
 
+For a long time it seemed I had two mutually exclusive definitions, but recently I've come realize that that the Princeton RSE is just a subset that fits within the larger US-RSE definition.  To illustrate this, I'll start with the narrower specific definition that we use at Princeton, and then step back to _my interpretation_ of the broader umbrella definition used in the US-RSE Association.  
+
 
 ## What is a Princeton RSE?
 
@@ -48,9 +50,9 @@ I’m convinced this is why it’s so hard to pin down *any* definition of an RS
 But what should a national definition of an RSE be?
 
 
-## What is an US-RSE Research Software Engineer?
+## What is a US-RSE Research Software Engineer?
 
-The US-RSE has adopted (at for the time being) the following [definition](https://us-rse.org/what-is-an-rse/):
+The US-RSE has adopted (at least for the time being) the following [definition](https://us-rse.org/what-is-an-rse/):
 
     We like an inclusive definition of Research Software Engineers to encompass those who regularly use
     expertise in programming to advance research. This includes researchers who spend a significant amount
@@ -73,6 +75,6 @@ An RSE might support someone else’s research, or they might support their own.
 
 ## Final thoughts
 
-I’m happy with having two different definitions for the same phrase.  One is very specific, and one much broader.  But are there only two?  Almost certainly not, especially on the specific side.  For example, I like the idea of a [Super RSE](https://danielskatzblog.wordpress.com/2019/07/12/super-rses-combining-research-and-service-in-three-dimensions-of-research-software-engineering/) extending into yet another dimension. The [RSE Phenotype generator](https://us-rse.org/rse-phenotype/) acknowledges the fact that RSEs might be so unique with multiple dimensions and facets, that individuals may need to define their own. In the end, I suspect most of the debate centered around "What is an RSE?" is probably related to this and is ultimately a variation of the [blind men and an elephant](https://en.wikipedia.org/wiki/Blind_men_and_an_elephant) parable.  
+I’m happy with having two different definitions for the same term.  One is very specific, and one much broader.  But are there only two?  Almost certainly not, especially on the specific side.  For example, I like the idea of a [Super RSE](https://danielskatzblog.wordpress.com/2019/07/12/super-rses-combining-research-and-service-in-three-dimensions-of-research-software-engineering/) extending into yet another dimension. The [RSE Phenotype generator](https://us-rse.org/rse-phenotype/) acknowledges the fact that RSEs might be so unique with multiple dimensions and facets, that individuals may need to define their own. In the end, I suspect most of the debate centered around "What is an RSE?" is probably related to this and is ultimately a variation of the [blind men and an elephant](https://en.wikipedia.org/wiki/Blind_men_and_an_elephant) parable.  
 
 The best path forward, in my opinion, is to lay out as many of specific definitions of RSEs, and then, as a community, we can define the elephant.  It’s going to take time, be imperfect in the interim, and possibly even offend some people.  These are growing pains.  As long as we don’t lose the forest through the trees, we’ll sort it out.
