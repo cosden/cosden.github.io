@@ -48,7 +48,7 @@ I’m convinced this is why it’s so hard to pin down *any* definition of an RS
 But what should a national definition of an RSE be?
 
 
-# What is an US-RSE Research Software Engineer?
+## What is an US-RSE Research Software Engineer?
 
 The US-RSE has adopted (at for the time being) the following [definition](https://us-rse.org/what-is-an-rse/):
 
