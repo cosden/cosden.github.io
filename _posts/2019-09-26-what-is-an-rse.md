@@ -2,7 +2,7 @@
 layout: post
 title:  "What is an RSE?"
 date:   2019-09-26
-banner_image: 
+banner_image:
 tags: [RSE]
 ---
 
@@ -73,6 +73,6 @@ An RSE might support someone else’s research, or they might support their own.
 
 ## Final thoughts
 
-I’m happy with having two different definitions for the same phrase.  One is very specific, and one much broader.  But are there only two?  Almost certainly not, especially on the specific side.  I suspect most of the debate is probably related to this and boils down to the [blind men and an elephant](https://en.wikipedia.org/wiki/Blind_men_and_an_elephant) parable.  
+I’m happy with having two different definitions for the same phrase.  One is very specific, and one much broader.  But are there only two?  Almost certainly not, especially on the specific side.  For example, I like the idea of a [Super RSE](https://danielskatzblog.wordpress.com/2019/07/12/super-rses-combining-research-and-service-in-three-dimensions-of-research-software-engineering/) extending into yet another dimension. The [RSE Phenotype generator](https://us-rse.org/rse-phenotype/) acknowledges the fact that RSEs might be so unique with multiple dimensions and facets, that individuals may need to define their own. In the end, I suspect most of the debate centered around "What is an RSE?" is probably related to this and is ultimately a variation of the [blind men and an elephant](https://en.wikipedia.org/wiki/Blind_men_and_an_elephant) parable.  
 
 The best path forward, in my opinion, is to lay out as many of specific definitions of RSEs, and then, as a community, we can define the elephant.  It’s going to take time, be imperfect in the interim, and possibly even offend some people.  These are growing pains.  As long as we don’t lose the forest through the trees, we’ll sort it out.
