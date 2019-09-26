@@ -16,7 +16,7 @@ The first RSE definition is fairly narrow and relates to my day job as the Manag
 
 The second is a broader definition as it relates to the [US-RSE Association](https://us-rse.org).  I’ve been actively involved in the organization since the beginning and I think it’s no secret that I am eager to see a professional association to support current and future RSEs.  The goals of the organization are [here](https://us-rse.org/mission) and I’m 100% behind them.  Many people have asked, and will continue to ask, “am I an RSE?” or “do I belong in the US-RSE?”  In this context, the definition of what constitutes an RSE is essential as we strive to develop a unique group identity.
 
-Recently I've come realize that that the Princeton RSE is just a subset or one of many possibilities that fits within the larger US-RSE definition.  To illustrate this, I'll start with the narrower specific definition that we use at Princeton, and then step back to _my interpretation_ of the broader umbrella definition used in the US-RSE Association.  
+Recently I've come realize that that the Princeton RSE is just a subset or one of many possibilities that fits within the larger US-RSE definition.  To illustrate this, I'll start with the narrower specific definition that we use at Princeton, and then step back to _my interpretation_ of the broader umbrella definition we've settled on for the US-RSE Association.  
 
 
 ## What is a Princeton RSE?
