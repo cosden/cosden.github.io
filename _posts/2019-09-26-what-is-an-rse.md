@@ -2,7 +2,7 @@
 layout: post
 title:  "What is an RSE?"
 date:   2019-09-26
-banner_image:
+banner_image: /assets/images/posts/2019/princeton-us-rse.png
 tags: [RSE]
 ---
 
@@ -10,13 +10,11 @@ tags: [RSE]
 
 This question has plagued me for months, maybe years.  It’s been the subject of surprisingly opinionated discussions and intense debate within the community.  I've come to the conclusion that, like it or not, definitions are important, perhaps critically important, because they create an identity.  You can’t answer the questions “am I an RSE?” or “how do I become an RSE?” without defining the term RSE.
 
-This post is my attempt, in a somewhat cohesive manner, to present my _current_ thinking.  I've struggled with two somewhat conflicting definitions and have recently decided they don’t need to be mutually exclusive.  I would like to openly welcome comments and feedback, because I don’t think this is close to being finalized.   Community discussion and congenial debate is the way we are all going to sort this out.  Reach out on twitter ([@iancosden](https://twitter.com/iancosden)), the US-RSE Slack workspace ([usrse.slack.com](https://usrse.slack.com)), or just email me (I'm sure you can find it).
+This post is my attempt, in a somewhat cohesive manner, to present my _current_ thinking.  I struggle with two somewhat conflicting definitions and have recently decided they don’t need to be mutually exclusive.  I would like to openly welcome comments and feedback, because I don’t think this is close to being finalized.   Community discussion and congenial debate is the way we are all going to sort this out.  Reach out on twitter ([@iancosden](https://twitter.com/iancosden)), the US-RSE Slack workspace ([usrse.slack.com](https://usrse.slack.com)), or just email me (I'm sure you can find it).
 
 The first RSE definition is fairly narrow and relates to my day job as the Manager of the Princeton Research Software Engineering Group.  Since the group’s inception it’s been critical that I clearly define the mission of the group to the campus community.  This means explaining what a RSE is to faculty, students, researchers, other research computing staff, and new RSEs themselves.  I have to write job descriptions, arrange and assign projects, and supervise people explicitly in roles with the title “Research Software Engineer.”  The definition of a _Princeton_ RSE, therefore, has to be distinct and well-defined.
 
 The second is a broader definition as it relates to the [US-RSE Association](https://us-rse.org).  I’ve been actively involved in the organization since the beginning and I think it’s no secret that I am eager to see a professional association to support current and future RSEs.  The goals of the organization are [here](https://us-rse.org/mission) and I’m 100% behind them.  Many people have asked, and will continue to ask, “am I an RSE?” or “do I belong in the US-RSE?”  In this context, the definition of what constitutes an RSE is essential as we strive to develop a unique group identity.
-
-Recently I've come realize that that the Princeton RSE is just a subset or one of many possibilities that fits within the larger US-RSE definition.  To illustrate this, I'll start with the narrower specific definition that we use at Princeton, and then step back to _my interpretation_ of the broader umbrella definition we've settled on for the US-RSE Association.  
 
 
 ## What is a Princeton RSE?
@@ -47,19 +45,18 @@ You’ll notice in the schematic above (yes it’s barebones - I’m not a graph
 I’m convinced this is why it’s so hard to pin down *any* definition of an RSE.  The RSE, as I’m describing now, is not a researcher, not facilitator, not a system administrator, and not really even a software engineer, but something else.  An RSE is a new role within the research software ecosystem.
 
 
-But what should a national definition of an RSE be?
+Next up...what should a national definition of an RSE be?
 
 
-## What is a US-RSE Research Software Engineer?
+# What about the US-RSE?
 
-The US-RSE has adopted (at least for the time being) the following [definition](https://us-rse.org/what-is-an-rse/):
+The US-RSE has adopted (at for the time being) the following [definition](https://us-rse.org/what-is-an-rse/):
 
-    We like an inclusive definition of Research Software Engineers to encompass those who
-    regularly use expertise in programming to advance research. This includes researchers
-    who spend a significant amount of time programming, full-time software engineers
-    writing code to solve research problems, and those somewhere in-between. We aspire to
-    apply the skills and practices of software development to research to create more
-    robust, manageable, and sustainable research software.
+    We like an inclusive definition of Research Software Engineers to encompass those who regularly use
+    expertise in programming to advance research. This includes researchers who spend a significant amount
+    of time programming, full-time software engineers writing code to solve research problems, and those
+    somewhere in-between. We aspire to apply the skills and practices of software development to research
+    to create more robust, manageable, and sustainable research software.
 
 This is clearly different than what I just outlined for a Princeton RSE, as it directly includes researchers.  At first (and maybe second or third) glance this appears to be irreconcilable with the notion that RSEs are *not* researchers.  
 
@@ -68,7 +65,7 @@ But that's not the case.  With the goal to support and advocate for the RSE role
 ![Diagram of broader RSE definition](/assets/images/posts/2019/US-RSE-diagram.png)
 
 
-So, what is an RSE?  As long as you stay away from the extreme non-software engineering, you just might be an RSE.  Are you are using software engineering best practices and programming to advance research?  You might be an RSE.  Title is irrelevant.  You could be a researcher, facilitator, programmer, post doc.  If you are engaging in Research Software Engineering, and something about the above definition resonates, then you’re probably an RSE.
+What is an RSE?  As long as you stay away from the extreme non-software engineering, you just might be an RSE.  Are you are using software engineering best practices and programming to advance research?  You might be an RSE.  Title is irrelevant.  You could be a researcher, facilitator, programmer, post doc.  If you are engaging in Research Software Engineering, and something about the above definition resonates, then you’re probably an RSE.
 
 An RSE might support someone else’s research, or they might support their own.  Regardless, if we are to believe that RSEs are making a critical contribution to the advancement of research then they should be getting *credit* for their software contributions.  How to properly give credit for software is another topic of debate, and not one I want to get into here, but it underscores an important part of who would want to identify as an RSE.  Do you want to be evaluated, rewarded, or acknowledged for the code you’ve developed and not just on the research output of that code?  If so, you’re probably an RSE.
 
@@ -76,6 +73,6 @@ An RSE might support someone else’s research, or they might support their own.
 
 ## Final thoughts
 
-I’m happy with having two different definitions for the same term.  One is very specific, and one much broader.  But are there only two?  Almost certainly not, especially on the specific side.  For example, I like the idea of a [Super RSE](https://danielskatzblog.wordpress.com/2019/07/12/super-rses-combining-research-and-service-in-three-dimensions-of-research-software-engineering/) extending into yet another dimension. The [RSE Phenotype generator](https://us-rse.org/rse-phenotype/) acknowledges the fact that RSEs might be so unique with multiple dimensions and facets, that individuals may need to define their own. In the end, I suspect most of the debate centered around "What is an RSE?" is probably related to this and is ultimately a variation of the [blind men and an elephant](https://en.wikipedia.org/wiki/Blind_men_and_an_elephant) parable.  
+I’m happy with having two different definitions for the same phrase.  One is very specific, and one much broader.  But are there only two?  Almost certainly not, especially on the specific side.  For example, I like the idea of a [Super RSE](https://danielskatzblog.wordpress.com/2019/07/12/super-rses-combining-research-and-service-in-three-dimensions-of-research-software-engineering/) extending into yet another dimension. The [RSE Phenotype generator](https://us-rse.org/rse-phenotype/) acknowledges the fact that RSEs might be so unique with multiple dimensions and facets, that individuals may need to define their own. In the end, I suspect most of the debate centered around "What is an RSE?" is probably related to this and is ultimately a variation of the [blind men and an elephant](https://en.wikipedia.org/wiki/Blind_men_and_an_elephant) parable.  
 
 The best path forward, in my opinion, is to lay out as many of specific definitions of RSEs, and then, as a community, we can define the elephant.  It’s going to take time, be imperfect in the interim, and possibly even offend some people.  These are growing pains.  As long as we don’t lose the forest through the trees, we’ll sort it out.
