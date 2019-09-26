@@ -12,13 +12,14 @@ Note to self: put a better picture here.
 I work at Princeton University as the Manager of *HPC Software
 Engineering and Performance Tuning* in the [Research Computing
 Department](https://researchcomputing.princeton.edu).  Basically that
-means I lead the Research Software Engineering Group.
+means I lead the
+[Research Software Engineering Group](https://researchcomputing.princeton.edu/software-engineering).
 
 I'm heavily involved in the [US-RSE Assocation](https://us-rse.org)
 currently serving as one of the founding steering committee members.  
 
 I have a Ph.D. in Mechanical Engineering from University of
-Pennsylvania.  A M.S. from Syracuse University, also in Mechanical
+Pennsylvania.  An M.S. from Syracuse University, also in Mechanical
 Engineering and a Bachelor's in Mechanical Engineering from University
 of Delaware.  It took me a while, but eventually came to the
 conclusion that I like writing code more than I liked the science or
