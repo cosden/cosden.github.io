@@ -45,10 +45,10 @@ You’ll notice in the schematic above (yes it’s barebones - I’m not a graph
 I’m convinced this is why it’s so hard to pin down *any* definition of an RSE.  The RSE, as I’m describing now, is not a researcher, not facilitator, not a system administrator, and not really even a software engineer, but something else.  An RSE is a new role within the research software ecosystem.
 
 
-Next up...what should a national definition of an RSE be?
+But what should a national definition of an RSE be?
 
 
-# What about the US-RSE?
+# What is an US-RSE Research Software Engineer?
 
 The US-RSE has adopted (at for the time being) the following [definition](https://us-rse.org/what-is-an-rse/):
 
@@ -65,7 +65,7 @@ But that's not the case.  With the goal to support and advocate for the RSE role
 ![Diagram of broader RSE definition](/assets/images/posts/2019/US-RSE-diagram.png)
 
 
-What is an RSE?  As long as you stay away from the extreme non-software engineering, you just might be an RSE.  Are you are using software engineering best practices and programming to advance research?  You might be an RSE.  Title is irrelevant.  You could be a researcher, facilitator, programmer, post doc.  If you are engaging in Research Software Engineering, and something about the above definition resonates, then you’re probably an RSE.
+So, what is an RSE?  As long as you stay away from the extreme non-software engineering, you just might be an RSE.  Are you are using software engineering best practices and programming to advance research?  You might be an RSE.  Title is irrelevant.  You could be a researcher, facilitator, programmer, post doc.  If you are engaging in Research Software Engineering, and something about the above definition resonates, then you’re probably an RSE.
 
 An RSE might support someone else’s research, or they might support their own.  Regardless, if we are to believe that RSEs are making a critical contribution to the advancement of research then they should be getting *credit* for their software contributions.  How to properly give credit for software is another topic of debate, and not one I want to get into here, but it underscores an important part of who would want to identify as an RSE.  Do you want to be evaluated, rewarded, or acknowledged for the code you’ve developed and not just on the research output of that code?  If so, you’re probably an RSE.
 
