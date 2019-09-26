@@ -50,7 +50,7 @@ Next up...what should a national definition of an RSE be?
 
 # What about the US-RSE?
 
-The US-RSE has adopted (at for the time being) the following definition:
+The US-RSE has adopted (at for the time being) the following [definition](https://us-rse.org/what-is-an-rse/):
 
     We like an inclusive definition of Research Software Engineers to encompass those who regularly use
     expertise in programming to advance research. This includes researchers who spend a significant amount
