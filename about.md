@@ -28,7 +28,8 @@ engineering.
 I have [3 terrific daughters](/assets/images/Cruise-2019.jpg) who keep life
 entertaining, fulfilling, and
 exhausting. I like good food (and spending too much at Michelin
-starred restaurants), audiobooks, and lifting weights.
+starred restaurants), audiobooks, lifting weights, and the
+[Philadelphia Eagles](https://www.youtube.com/watch?v=YDXSvWK0Dco).
 
 ### Long Version
 
