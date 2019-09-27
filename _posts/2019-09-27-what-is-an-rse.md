@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What is an RSE?"
+title:  "What is a Research Software Engineer (RSE)?"
 date:   2019-09-26
 banner_image: /assets/images/posts/2019/princeton-us-rse.png
 tags: [RSE]
