@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What is a Research Software Engineer?"
-date:   2019-09-26
+date:   2019-09-27
 banner_image: /assets/images/posts/2019/princeton-us-rse.png
 tags: [RSE]
 ---
