@@ -21,7 +21,7 @@ Recently I've come realize that that the Princeton RSE is just a subset or one o
 
 ## What is a Princeton RSE?
 
-Let’s start with the group’s mission, directly from our website:  
+Let’s start with the group’s mission, directly from our [website](https://researchcomputing.princeton.edu/software-engineering):  
 
     Our mission is to help researchers create the most efficient, scalable, and sustainable
     research codes possible in order to enable new scientific advances.
