@@ -16,7 +16,7 @@ means I lead the
 [Research Software Engineering Group](https://researchcomputing.princeton.edu/software-engineering).
 
 I'm heavily involved in the [US-RSE Assocation](https://us-rse.org)
-currently serving as one of the founding steering committee members.  
+currently serving as the chair of the founding steering committee.  
 
 I have a Ph.D. in Mechanical Engineering from University of
 Pennsylvania.  An M.S. from Syracuse University, also in Mechanical
