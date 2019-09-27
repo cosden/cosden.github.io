@@ -5,7 +5,7 @@ description: Ian A. Cosden
 banner_image: /assets/images/aboutPage.jpg
 ---
 
-Note to self: put a better picture here.
+A picture from one of my favorite places.  Bonus points if you can find it on a map.
 
 ### Short Version
 
