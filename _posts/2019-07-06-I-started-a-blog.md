@@ -20,6 +20,8 @@ Am I having narcissistic tendencies with the need to share every thought I've ev
 
 *Gosh I hope not, but we're probably getting closer!*
 
+<!--more-->
+
 In all honesty, I don't know where this will go.  I've never been much
 of a writer or journaler.  However with the recent involvement getting the [US-RSE
 Association](https://us-rse.org) going, I find myself

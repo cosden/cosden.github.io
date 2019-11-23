@@ -9,6 +9,7 @@ tags: [RSE]
 # What is an RSE?
 
 This question has plagued me for months, maybe years.  It’s been the subject of surprisingly opinionated discussions and intense debate within the community.  I've come to the conclusion that, like it or not, definitions are important, perhaps critically important, because they create an identity.  You can’t answer the questions “am I an RSE?” or “how do I become an RSE?” without defining the term RSE.
+<!--more-->
 
 This post is my attempt, in a somewhat cohesive manner, to present my _current_ thinking.  I struggle with two somewhat conflicting definitions and have recently decided they don’t need to be mutually exclusive.  I would like to openly welcome comments and feedback, because I don’t think this is close to being finalized.   Community discussion and congenial debate is the way we are all going to sort this out.  Reach out on twitter ([@iancosden](https://twitter.com/iancosden)), the US-RSE Slack workspace ([usrse.slack.com](https://usrse.slack.com)), or just email me (I'm sure you can find it).
 
