@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "5 challenges currently facing the RSE career path"
-date:   2019-11-23
+date:   2019-11-25
 banner_image: #/assets/images/posts/2019/Denver-SC19.jpg
 tags: [RSE]
 ---
