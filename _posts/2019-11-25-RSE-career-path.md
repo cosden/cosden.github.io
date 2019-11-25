@@ -240,7 +240,7 @@ For example a "[Super RSE](https://danielskatzblog.wordpress.com/2019/07/12/supe
 Both are valid RSE roles and we need to find a way to make sure neither is marginalized and each sees a clear path for success and growth.  And those are just two examples, there are others.
 
 Finally, something else came out at SC19: anything that helps the RSE community, helps individual RSEs. We are in this together and every little contribution helps. Our best chance for establishing and improving the career path for RSEs is to work together as a broad community.  
-In this country, the (US-RSE Association)[https://us-rse.org] looks to have the potential to have a significant impact, and this is one of the reasons I'm so heavily involved in the organization.
+In this country, the [US-RSE Association](https://us-rse.org) looks to have the potential to have a significant impact, and this is one of the reasons I'm so heavily involved in the organization.
 But it's not just a US issue, nor just a pure-RSE issue.
 We are more alike than we are different so we should be connecting and coordinating with other groups and initiatives that are also trying to make progress in this space (e.g. UK RSE, NL-RSE, DE-RSE, CASC, CaRCC, URSSI, etc..).
 
