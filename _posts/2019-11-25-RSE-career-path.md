@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "5 challenges currently facing the RSE career path"
+title:  "5 Challenges Currently Facing the RSE Career Path"
 date:   2019-11-25
 banner_image: #/assets/images/posts/2019/Denver-SC19.jpg
 tags: [RSE]
 ---
 
-# 5 challenges currently facing the RSE career path
+# 5 Challenges Currently Facing the RSE Career Path
 
 
 At [SC19](https://sc19.supercomputing.org) I had the privilege of serving on a [panel about fostering career paths in HPC](https://sc19.supercomputing.org/presentation/?id=pan109&sess=sess227).
