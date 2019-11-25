@@ -6,9 +6,6 @@ banner_image: #/assets/images/posts/2019/Denver-SC19.jpg
 tags: [RSE]
 ---
 
-# 5 Challenges Currently Facing the RSE Career Path
-
-
 At [SC19](https://sc19.supercomputing.org) I had the privilege of serving on a [panel about fostering career paths in HPC](https://sc19.supercomputing.org/presentation/?id=pan109&sess=sess227).
 In the days prior, I spent some time preparing for the panel by identifying what I felt were the current gaps and problems facing the career path for RSEs.  Because of the response (very positive) I took the ideas from my panel introduction and turned it into this post.
 
