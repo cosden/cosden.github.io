@@ -31,7 +31,7 @@ For the most part, these challenges are not geared towards researchers who _prac
 
 Keep in mind that the RES landscape is changing fairly rapidly, and this list (and my opinion) is likely to change. My hope is this list starts a discussion and I'm happy to be proven wrong, convinced that the list is wrong/incomplete, or work to polish it into something more refined.
 More than anything I hope this starts people thinking about ways to improve the career path.
-Reach out on twitter ([@iancosden](https://twitter.com/iancosden)) or join the US-RSE Association Slack workspace ([usrse.slack.com](https://usrse.slack.com)) and let me know what you think.
+Reach out on twitter ([@iancosden](https://twitter.com/iancosden)) or [join](https://us-rse.org/join) the US-RSE Association Slack workspace ([usrse.slack.com](https://usrse.slack.com)) and let me know what you think.
 
 On to the challenges and then how to fix them.
 
