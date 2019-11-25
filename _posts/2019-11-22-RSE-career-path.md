@@ -206,7 +206,7 @@ Alternatively, if someone is sufficiently motivated by the intellectual challeng
 
 Anecdotally, most RSEs find their jobs fulfilling, appropriately challenging, and have a high level of job satisfaction.
 And that goes a long way.
-In the best survey of RSEs to date, when asked to rate their job satisfaction, respondents reported a mean value of 8 of 10, where 0 was "not at all satisfied" and 10 was completely satisfied (read a summary of the study here [here](http://urssi.us/blog/2018/06/21/results-from-a-us-survey-about-research-software-engineers/)).  
+In the best [survey of RSEs](https://zenodo.org/record/2585783#.XdwLapNKjOQ) to date, when asked to rate their job satisfaction, respondents reported a mean value of 8 of 10, where 0 was "not at all satisfied" and 10 was completely satisfied (read a summary of the study here [here](http://urssi.us/blog/2018/06/21/results-from-a-us-survey-about-research-software-engineers/)).  
 Add in the typical benefits of working in higher education, and the non-salary benefits of the position are tangible and by no means insignificant.
 But all things being equal, money can be a significant motivator, and can be a carrot that lures otherwise content people away from jobs.  
 If we want to make RSE a lifelong career, we need to start having honest discussions about the pay scale and the necessary compensation to retain mid-career professionals.
