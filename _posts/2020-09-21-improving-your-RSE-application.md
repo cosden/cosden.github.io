@@ -2,15 +2,15 @@
 layout: post
 title:  "Improving your RSE application"
 date:   2020-09-21
-banner_image: #/assets/images/posts/2019/Denver-SC19.jpg
+banner_image: /assets/images/posts/2020/resume-unsplash.jpg
 tags: [RSE]
 ---
 
 
 
-In an excellent recent [US-RSE](https://us-rse.org) [community call about applying, interviewing, and hiring for RSE positions](https://us-rse.org/2020-09-18-community-call-hiring/) the question came up,
+In an excellent recent [US-RSE](https://us-rse.org) community call about applying, interviewing, and hiring for RSE positions (a nice recap of the call is available [here](https://us-rse.org/2020-09-18-community-call-hiring/)) the question came up,
 
-> What do hiring managers look for that helps an RSE get on the short list?”
+> "What do hiring managers look for that helps an RSE get on the short list?”
 
 I have some very specific opinions, and after hearing some other RSE hiring managers on the US-RSE call, I don’t think I’m alone.
 This blog series is in an effort to answer that question in more detail than the call allowed. <!--more-->
@@ -25,12 +25,19 @@ When you apply to a position (at least the ones that I post) you have only two o
 A CV is required, a cover letter is optional.
 My first piece of advice is also my biggest: **do not consider the cover letter optional**.
 We’ll get to the specifics of why, and what makes a good cover letter later, but for now realize that it’s simply that important.
-To be clear, a great CV - one that perfectly matches the skills and experience needed for the position - even without a cover letter is more than sufficient to get you on the short list.
+To be clear, a great CV - one that perfectly matches the skills and experience needed for the position - even without a cover letter, is more than sufficient to get you on the short list.
 But that’s still not reason enough to skip it.
 
 ### Why am I writing this?
-Because so few people know what an RSE is, it’s hard to get targeted advice. There are a million resources online for getting a software engineering job. There are nearly as many for applying to a research position. But an RSE? I don’t know of any (if you know of one, send me a link and I’ll edit this to include it). I want to do my part to make RSE positions more accessible to everyone, not just those with a spectacular CV and insider knowledge. So I’ve written this with an early-career aspiring RSE in mind, but it’s likely general enough for most.
+Because so few people know what an RSE is, let alone have first hand knowledge about the positions, it’s hard to get targeted advice.
+There are a million resources online for getting a software engineering job.
+There are nearly as many for applying to a research position.
+But an RSE?
+I don’t know of any (if you know of one, send me a link and I’ll edit this to include it).
+I want to do my part to make RSE positions more accessible to everyone, not just those with a spectacular CV and insider knowledge.
+So here are some insights along with some tips for improving your chances.
+I’ve written this with an early-career aspiring RSE in mind - those with the hardest time building up a strong CV - but it’s likely general enough for most.
 
-### The posts
+### On to the posts!
 [Part 1: Tips for improving your CV]({{ site.baseurl }}/01-improving-your-CV)  
 [Part 2: Writing a good cover letter]({{ site.baseurl }}/02-improving-your-cover-letter)

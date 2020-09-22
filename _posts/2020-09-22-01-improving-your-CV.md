@@ -2,11 +2,11 @@
 layout: post
 title:  "Tips for Improving your RSE CV"
 date:   2020-09-22
-banner_image: #/assets/images/posts/2019/Denver-SC19.jpg
+banner_image: 
 tags: [RSE]
 ---
 
-Note: This is part 1 of a series with tips for getting on the short list for an RSE interview.
+Note: This is part 1 of a [series]({{ site.baseurl }}/improving-your-RSE-application) with tips for getting on the short list for an RSE interview.
 
 ## Your CV
 
@@ -25,13 +25,15 @@ So the goal of the CV is to get me to say “I want to talk to this person.”
 I’m not going to focus on how to go about building a quality CV - that’s the topic for another post.
 Rather, let’s assume you’re already at the application process.
 There isn’t time to go out and do something to beef up your CV, so instead we’ll work with what you have.
-
-### CV Tip #1: Formatting helps
+<!--more-->
+### CV Tip #1: Use formatting to your advantage
 I don’t have super specific advice here, because there are an infinite number of ways to do it effectively.
-There are lots of resources online too.
+There are lots of resources online too (for example [here](https://enhancv.com/resume-examples/software-engineer/_) and [here(https://www.freecodecamp.org/news/writing-a-killer-software-engineering-resume-b11c91ef699d/)]).
 Your goal should be to make sure that on my quick initial skim I can see your relevant skills/experience/education quickly and clearly.
 I’ve seen people use bold or have lists on the side with years of experience with certain tech, etc. to make it really easy for me to see.
-If things are organized illogically or scattered, the likelihood that I miss something is high.
+I appreciate when relative experience is clearly articulated.
+A long list of every technology you've ever heard of isn't helpful, you aren't impressing anyone, but if it's organized into buckets like expert, proficient, familiar, etc. it's much more useful.  
+Use headings and sections wisely; if things are organized illogically or scattered, the likelihood that I miss something is high.
 
 #### CV Tip #1a: Get the important stuff on page 1
 For an RSE position, research experience and programming experience are both incredibly valuable.
@@ -45,16 +47,27 @@ Keep it short, highlight the key features and move on. More isn’t better, *bet
 
 ### CV Tip #2: Include a link to code you’ve written.
 This is a great opportunity to jump to the top of the pile.
-An RSE is a professional software engineer.
-At some point I’m going to want to see that you have the technical skills to succeed.
-When an applicant puts links to code for each project, or a link to a GitHub/GitLab/BitBucket profile I almost ALWAYS click on it.
+An RSE is a type of *professional* software engineer.
+(It's no secret that I like the [RSE-chef analogy](http://urssi.us/blog/2019/04/16/why-research-software-engineers/) - Would you hire a full-time personal chef having never tasted their food?)
+So at some point I’m going to need to see that you have the technical skills to succeed.
+When an applicant puts links to code for each project, or a link to a personal GitHub/GitLab/BitBucket profile I ALWAYS click on it.
+
 Yes, always.
+
 So keep this in mind if you link a GitHub profile with literally nothing there.
-There are many reasons why you might not have anything (you work in private repos, you use local instance of version control), but unless you address that in your cover letter, it’s going to be hard for me to not assume. Honestly, not posting a link to a GitHub account is probably better than posting a completely empty one.
+There are many reasons why you might not have anything (you work in private repos, you use local instance of version control, proprietary code), but unless you address that in your cover letter, it’s going to be hard for me to not assume.
+Honestly, not posting a link to a GitHub account is probably better than posting a nearly empty one.
 
 ### CV Tip #3: Use hyperlinks wisely.
-As I said in tip #3, I always click on links to code. I usually click on personal web pages. I never click on LinkedIn profiles (I have your CV in front of me). Notice that I’m saying click. Nowadays (it wasn’t always like this) I rarely print CVs in the first round of review. So assume that I’m on a computer with the ability to easily click links. If you have a URL, make sure it’s hyperlinked, it works, and it’s correct! Don’t use too many hyperlinks, use them as a way to get me to click on what you want to showcase.
+As I said in tip #3, I always click on links to code. I usually click on personal web pages. I never click on LinkedIn profiles (I have your CV in front of me).
+Notice that I’m using the word click.
+Nowadays (it wasn’t always like this) I rarely print CVs in the first round of review.
+So assume that I’m on a computer with the ability to easily click links.
+If you have a URL, make sure it’s hyperlinked, it works, and it’s correct!
+Don’t use too many hyperlinks.
+Figure I will click on one or two, so use them as a way to get me to click on what you want to showcase.
+Used correctly you increase the amount of time I spend on your application and greatly increase the amount of information you can communicate.
 
 
 
-Next up part 2: The cover letter...
+Next up [part 2: The cover letter]({{ site.baseurl }}/02-improving-your-cover-letter)...

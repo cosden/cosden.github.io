@@ -2,7 +2,7 @@
 layout: post
 title:  "Tips for Improving your RSE Cover Letter"
 date:   2020-09-22
-banner_image: #/assets/images/posts/2019/Denver-SC19.jpg
+banner_image: 
 tags: [RSE]
 ---
 
@@ -10,21 +10,29 @@ Note: This is part 2 of a [series]({{ site.baseurl }}/improving-your-RSE-applica
 
 ## Your Cover Letter
 
-In the [first part](({{ site.baseurl }}/01-improving-your-CV)) of this blog series, I gave some tips on what I think makes a good CV.
+In the [first part](({{ site.baseurl }}/01-improving-your-CV)) of this blog series, I gave some tips on ways to improve your CV.
 I had made the point that the purpose of a CV is to summarize your experience/education in a way that demonstrates that you are qualified for the position.
 In other words, a CV talks about what you’ve accomplished.
 A cover letter is your opportunity to fill in everything else.
 It’s a huge opportunity that so many applicants waste.
-The cover letter is literally your only opportunity to write something directly to me (that I will always read) explaining why I should move you to the short list. You can tell me who you are, why you are interested, and why you’d be a good fit.
+The cover letter is literally your only opportunity to write something directly to me (that I will **always** read) explaining why I should move you to the short list.
+You can tell me who you are, why you are interested, and why you’d be a good fit.
 I cannot stress the following enough:
 
 **A strong cover letter, tailored to the position can make a massive difference**.
+<!--more-->
+
+It can take an average CV and catapult you to the front of the list.
+It can take a good CV and move you into the "Dear HR, call this candidate today!" category.
+It's that powerful.
+
+
 
 ### Cover letter tip #1: Passion is contagious
 Explain why you want to do this work and why you think you’d be good at it.
 This is your chance to show me that you love to do Research Software Engineering.
 If you don’t have lots of formal experience, but you read about it, research it, and experiment on your own - tell me!
-f you’ve decided that this is the career path for you - tell me.
+If you’ve decided that this is the career path for you - tell me.
 Passion and an eagerness to learn is just as valuable as experience.
 It’s nearly impossible to show this on a CV, so the cover letter is your chance.
 No one (at least not yet) majors in research software engineering, so we have ALL learned it through a combination of formal/informal education and training, and experience.
@@ -35,7 +43,7 @@ Don't use the cover letter to just reiterate what's on your CV.
 Instead, highlight some experience that you think especially qualifies you for this position.
 It might be a 3 month internship that doesn’t get the top billing on your CV, but it’s a good fit in terms of experience, talk about it.
 Class projects, an aspect of your dissertation research, even a talk you saw at a conference are all possibilities.
-Remember the first tip ad explain why this experience is applicable.   
+Remember tip #1, and explain why this experience is applicable.   
 
 
 ### Cover letter tip #3: Do some research
@@ -59,7 +67,7 @@ I’d like to point out that while I do use the cover letter to judge communicat
 The ability to communicate your ideas in writing is, however, a critical skill that I believe RSEs must have.
 You’ll be writing comments in code, version control (issues, PRs, comments) and discussing technical topics in emails.
 If I can’t understand what you are trying to say, that’s a problem.
-Conveying ideas is far more important than the flawless writing.
+Conveying ideas is **far** more important than the flawless writing.
 We aren't looking for a journalist.
 So non-native English speakers, don’t worry.
 If you aren’t using big words, or have some minor grammatical mistakes, I don’t care.
