@@ -10,7 +10,7 @@ Note: This is part 2 of a [series]({{ site.baseurl }}/improving-your-RSE-applica
 
 ## Your Cover Letter
 
-In the [first part]({{ site.baseurl }}/01-improving-your-CV)) of this blog series, I gave some tips on ways to improve your CV.
+In the [first part]({{ site.baseurl }}/01-improving-your-CV) of this blog series, I gave some tips on ways to improve your CV.
 I had made the point that the purpose of a CV is to summarize your experience/education in a way that demonstrates that you are qualified for the position.
 In other words, a CV talks about what you’ve accomplished.
 A cover letter is your opportunity to fill in everything else.
