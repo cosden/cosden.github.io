@@ -9,8 +9,8 @@ A picture from one of my favorite places.  Bonus points if you can find it on a 
 
 ### Short Version
 
-I work at Princeton University as the Manager of *HPC Software
-Engineering and Performance Tuning* in the [Research Computing
+I work at Princeton University as the Director of *Research Software
+Engineering for Computational & Data Science* in the [Research Computing
 Department](https://researchcomputing.princeton.edu).  Basically that
 means I lead the
 [Research Software Engineering Group](https://researchcomputing.princeton.edu/software-engineering).
@@ -32,4 +32,4 @@ much at Michelin starred restaurants), audiobooks, lifting weights, and the
 
 ### Long Version
 
-Coming soon (as a blog post)...
+Maybe coming soon (as a blog post)...
