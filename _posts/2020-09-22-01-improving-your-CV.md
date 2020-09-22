@@ -2,7 +2,7 @@
 layout: post
 title:  "Tips for Improving your RSE CV"
 date:   2020-09-22
-banner_image: 
+banner_image:
 tags: [RSE]
 ---
 
@@ -13,7 +13,7 @@ Note: This is part 1 of a [series]({{ site.baseurl }}/improving-your-RSE-applica
 Hiring is one of - if not the - most important part of my job.
 It’s a priority and I have every incentive to get it right.
 I want to find someone good.
-No, I want to find someone great.
+No, I want to find someone **great**.
 As a rule I look at each new applicant excited and hopeful.
 I give everyone the benefit of the doubt.
 However, I’m really busy, so I simply don’t have time to spend 15 minutes on each application.

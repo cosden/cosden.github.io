@@ -35,8 +35,9 @@ There are nearly as many for applying to a research position.
 But an RSE?
 I don’t know of any (if you know of one, send me a link and I’ll edit this to include it).
 I want to do my part to make RSE positions more accessible to everyone, not just those with a spectacular CV and insider knowledge.
-So here are some insights along with some tips for improving your chances.
-I’ve written this with an early-career aspiring RSE in mind - those with the hardest time building up a strong CV - but it’s likely general enough for most.
+After Neil Chue Hong's fantastic talk "[Does RSE have a diversity crisis and what can we do?](https://figshare.com/articles/presentation/Does_Research_Software_Engineering_have_a_diversity_crisis_and_what_can_we_do_/12955094/4)" at the [2nd International RSE Leaders Workshop](https://researchsoftware.org/2020-workshop.html) I felt compelled to contribute something - even if very small - to the effort.
+So here are some insights along with a handful of tips for improving your chances of moving foward, especially if you don't have an exceptional pedegree or years of applicable experience.
+I’ve written this specifically with an early-career aspiring RSE in mind - those with the hardest time building up a strong CV.
 
 ### On to the posts!
 [Part 1: Tips for improving your CV]({{ site.baseurl }}/01-improving-your-CV)  
