@@ -41,12 +41,12 @@ I always start at the top of page 1, and work my way down.
 If you wrote a 100,000 line code that’s being used by hundreds of people, hit me with that early!
 If you’re in your second year of a postdoc, I’m going to assume you’ve got the research part down; don’t bury your programming experience/expertise on page 4 after pages of publications and presentations.
 
-### CV Tip #1b: Don’t put walls of text.
+### CV Tip #1b: Don’t put walls of text
 Half a page of size 10 font about each project without any special formatting makes skimming hard.
 This is a good way to convince me to just skip over it.
 Keep it short, highlight the key features, and move on. More isn’t better, *better is better.*
 
-### CV Tip #2: Include a link to code you’ve written.
+### CV Tip #2: Include a link to code you’ve written
 This is a great opportunity to jump to the top of the pile.
 An RSE is a type of *professional* software engineer.
 It's no secret that I like the [RSE-chef analogy](http://urssi.us/blog/2019/04/16/why-research-software-engineers/). Would you hire a full-time personal chef having never tasted their food?
@@ -59,7 +59,7 @@ So keep this in mind if you link a GitHub profile with literally nothing there.
 There are many reasons why you might not have anything (you work in private repos, you use local instance of version control, proprietary code), but unless you address that in your cover letter, it’s going to be hard for me to not assume.
 Honestly, not posting a link to a GitHub account is probably better than posting a nearly empty one.
 
-### CV Tip #3: Use hyperlinks wisely.
+### CV Tip #3: Use hyperlinks wisely
 As I said in tip #3, I always click on links to code. I **usually** click on personal web pages. I **never** click on LinkedIn profiles (I have your CV in front of me, why go to LinkedIn?).
 
 Notice that I’m using the word *click*. Nowadays (it wasn’t always like this) I rarely print CVs in the first round of review.
