@@ -66,7 +66,7 @@ Notice that I’m using the word *click*. Nowadays (it wasn’t always like this
 Assume that I’m on a computer with the ability to easily click links.
 If you have a URL, make sure it’s hyperlinked, it works, *and* it’s correct!
 Don’t use too many hyperlinks.
-Figure I will click on one or two, so use them as a way to get me to click on what you want to showcase.
+Figure I will click on one or two, so use them as a way to get me to read more of what you want to showcase.
 Used correctly you increase the amount of time I spend on your application and greatly increase the amount of information you can communicate.
 
 
