@@ -73,9 +73,9 @@ We aren't looking for a journalist.
 So non-native English speakers, don’t worry.
 If you aren’t using big words, or have some minor grammatical mistakes, I don’t care.
 Making a verb conjugation mistake is completely different from a statement about how you look forward to contributing to improve our company's bottom line (we aren’t for profit!).
-If you aren’t a great writer, don’t skip the cover, just do your best.
-Ask a friend or colleague to proof read it.
-From my own experience, the more you write, the better you get.
+If you aren’t a great writer, don’t skip the cover letter, just do your best.
+Ask a friend or colleague to proof read it and give suggestions.
+And practice. The more you write, the better you'll get.
 
 ### Wrapping up
 To summarize, a good cover letter can convey literally all the following important traits: you’re serious, you’re a hard worker, you’re professional, you’re a good communicator, you’re passionate and excited about the work, you’re a good fit for the position, etc.
