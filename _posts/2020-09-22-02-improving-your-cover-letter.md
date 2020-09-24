@@ -38,6 +38,7 @@ It’s nearly impossible to show this on a CV, so the cover letter is your chanc
 No one (at least not yet) majors in research software engineering, so we have ALL learned it through a combination of formal/informal education and training, and experience.
 How you learn can come in all shapes and sizes.
 
+
 ### Cover letter tip #2: Highlight one or maybe two key experiences
 Don't use the cover letter to just reiterate what's on your CV.
 Instead, highlight some experience that you think especially qualifies you for this position.
