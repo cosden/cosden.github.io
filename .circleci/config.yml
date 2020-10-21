@@ -34,7 +34,8 @@ build_jekyll: &build_jekyll
             cp ~/repo/.circleci/circle_urls.sh ~/repo/circle_urls.sh
             cd ~/repo
             chmod u+x circle_urls.sh
-            bash circle_urls.sh              
+            bash circle_urls.sh
+            rm Gemfile.lock
             bundle exec jekyll build
         else
             echo "Triggered by something else."
