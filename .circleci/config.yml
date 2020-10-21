@@ -36,7 +36,6 @@ build_jekyll: &build_jekyll
             chmod u+x circle_urls.sh
             bash circle_urls.sh
             rm Gemfile.lock
-            gem install bundler --pre
             bundle install
             bundle exec jekyll build
         else
