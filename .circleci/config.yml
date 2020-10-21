@@ -40,7 +40,7 @@ jobs:
 
       - store_artifacts:
           path: ./_site
-          destination: vsoch.github.io
+          destination: cosden.github.io
 
 workflows:
   version: 2
