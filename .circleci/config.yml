@@ -44,7 +44,7 @@ build_jekyll: &build_jekyll
 jobs:
   build-site:
     docker:
-      - image: circleci/ruby:2.4.4
+      - image: circleci/ruby:2.5
     working_directory: ~/repo
     environment:
       - JEKYLL_ENV: production
