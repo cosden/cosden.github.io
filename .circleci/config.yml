@@ -35,7 +35,6 @@ build_jekyll: &build_jekyll
             cd ~/repo
             chmod u+x circle_urls.sh
             bash circle_urls.sh
-            rm Gemfile.lock
             bundle exec jekyll build
         else
             echo "Triggered by something else."
@@ -65,6 +64,7 @@ jobs:
           name: Bundle Install
           command: |
               cd ~/repo
+              rm Gemfile.lock
               bundle check || bundle install
       - save_cache:
           key: rubygems-v1
