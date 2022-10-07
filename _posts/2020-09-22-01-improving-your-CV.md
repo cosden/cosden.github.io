@@ -28,7 +28,7 @@ There isn’t time to go out and do something to beef up your CV, so instead we�
 <!--more-->
 ### CV Tip #1: Use formatting to your advantage
 I don’t have specific advice here, because there are an infinite number of ways to do it effectively.
-There are lots of resources online too (for example [here](https://enhancv.com/resume-examples/software-engineer/_) and [here(https://www.freecodecamp.org/news/writing-a-killer-software-engineering-resume-b11c91ef699d/)]).
+There are lots of resources online too (for example [here](https://enhancv.com/resume-examples/software-engineer/_) and [here](https://www.freecodecamp.org/news/writing-a-killer-software-engineering-resume-b11c91ef699d/)).
 Your goal should be to make sure that on my quick initial skim I can see your relevant skills/experience/education quickly and clearly.
 I’ve seen people use bold in clever ways or have lists on the side with years of experience with certain technologies to make it really easy for me to see.
 I appreciate when relative experience is clearly articulated.
